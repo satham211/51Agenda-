@@ -1,0 +1,18 @@
+AGENDA SINCRONIZADA — PUBLICAÇÃO NO NETLIFY
+
+Este pacote contém o site e o banco compartilhado usando Netlify Blobs.
+
+FORMA RECOMENDADA:
+1. Coloque estes arquivos em um repositório do GitHub.
+2. No Netlify, escolha "Add new project" e depois "Import an existing project".
+3. Conecte o repositório.
+4. Não é necessário informar comando de build.
+5. Publique o projeto.
+
+Depois da publicação, abra o mesmo endereço em qualquer celular ou computador.
+Todas as pessoas com o link poderão criar, editar e excluir reservas.
+
+IMPORTANTE:
+- Mantenha os arquivos e pastas exatamente nesta estrutura.
+- O arquivo index.html sozinho não sincroniza; a pasta netlify/functions também é necessária.
+- O site atualiza automaticamente a cada 30 segundos e imediatamente após cada alteração.

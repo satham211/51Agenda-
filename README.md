@@ -1,1 +1,3 @@
-[agenda-interna-estudios-zero5um.zip](https://github.com/user-attachments/files/34630058/agenda-interna-estudios-zero5um.zip)
+# Agenda dos Estúdios A e B
+
+Agenda interna compartilhada para reservas dos estúdios, publicada no Netlify. Veja LEIA-ME.txt.
